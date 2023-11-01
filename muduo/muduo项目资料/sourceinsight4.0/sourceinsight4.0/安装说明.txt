@@ -1,0 +1,4 @@
+1、双击sourceinsight4086-setup.exe进行安装；
+2、安装成功后进入安装目录替换掉sourceinsight4.exe；
+3、双击替换后的sourceinsight4.exe打开Source Insight；
+4、选择弹窗的最后一项import a new license file，选取licence文件si4.pediy.lic
